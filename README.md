@@ -6,7 +6,7 @@ A CodeTable is an online website where you can compile, run, view and edit your 
 
 ##Features in CodeTable
 <ul>
-  <li>You can on the text area, compile and run it.</li>
+  <li>You can write codes in the text area, compile and run it.</li>
   <li>There is an option for custom input field.</li>
   <li>Recently submitted codes can be viewed.</li>
   <li>You can edit your submitted code.</li>
